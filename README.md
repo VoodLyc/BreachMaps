@@ -5,3 +5,5 @@
 
 ## Database
 [https://www.kaggle.com/usgs/earthquake-database](https://www.kaggle.com/usgs/earthquake-database)
+## Documentation
+[Engineering Method](EarthquakeMap/docs/EngineeringMethod.pdf)
